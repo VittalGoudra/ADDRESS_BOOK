@@ -52,10 +52,15 @@ A simple Contact Management System developed using C.
 
 
 
-## Output
+## Output Images
 
 
 
-**Add your program output screenshot below:**
+<img width="970" height="838" alt="Image" src="https://github.com/user-attachments/assets/a1556027-f052-4f29-bc1c-c399c98e1946" />
+
+
+
+
+
 
 `[ Insert Output Image Here ]`
