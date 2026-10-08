@@ -61,6 +61,11 @@ A simple Contact Management System developed using C.
 
 
 
+<img width="3123" height="835" alt="Image" src="https://github.com/user-attachments/assets/a52acc81-667a-4dfe-b327-d06f4a4fe261" />
+
+
+
+
 
 
 
