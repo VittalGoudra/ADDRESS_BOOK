@@ -71,4 +71,4 @@ A simple Contact Management System developed using C.
 
 
 
-`[ Insert Output Image Here ]`
+
